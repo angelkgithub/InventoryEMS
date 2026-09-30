@@ -1,0 +1,255 @@
+# Transcribed row-by-row from the two inventory screenshots.
+# Format:  Product name | quantity
+# Lines starting with "##" start a new screenshot section (used for row-count checks).
+# Names are kept exactly as shown (only trimmed; stray typos such as ")" are removed and listed in README).
+
+## S1-A (screenshot 1, left column)
+Aimovig 140mg | 0
+Aimovig 70mg | 0
+Ajovy 225 mg - mint - NDC 51759-204-10 | 7
+Ajovy 225 mg - NDC 202-10 | 7
+Basaglar | 30
+Cosentyx 150mg 2ct | 0
+Cosentyx 300mg single | 3
+Cosentyx 300mg | 0
+Dupixent 200mg/1.4ml - NDC 0024-5918-01 | 1
+Dupixent 200mg/1.4ml - NDC 0024-5918-01 (ding) | 1
+Dupixent 200mg/1.4ml - NDC 0024-5919-02 | 4
+Dupixent 200mg/1.4ml - NDC 0024-5919-02 (ding) | 1
+Dupixent 300mg/2ml - NDC 0024-5914-01 (long) | 14
+Dupixent 300mg/2ml - NDC 0024-5915-02 (short) | 5
+Dupixent 300mg/2ml - NDC 0024-5915-02 (ding) | 1
+Emgality (long) - mint | 3
+Emgality (short) - ding | 0
+Emgality (short) - mint | 7
+Enbrel 50mg/ml (white) | 3
+Humulin R U-500 | 19
+Humulin N KwikPen | 1
+Humulin 70/30 KwikPen | 1
+Humalog (vials) 100 units/ml | 24
+Humalog KwikPen 100 units/ml | 43
+Humalog KwikPen 100 units/ml (ding) | 1
+Humalog KwikPen 200 units/ml | 45
+Humalog KwikPen 200 units/ml | 3
+Humira Pen | 1
+Humira syringe (fat box) | 1
+Insulin Lispro (vials) 100 units/ml | 63
+Insulin Lispro (vials) 100 units/ml (ding) | 2
+Insulin Lispro Jr. KwikPen | 2
+Insulin Lispro KwikPen | 92
+Insulin Lispro KwikPen (ding) | 1
+Lantus (vials) 100 units/ml | 55
+Lantus SoloStar 100 units/ml | 1
+Lantus SoloStar 100 units/ml (ding) | 3
+Liraglutide 18mg - 2 pens | 2
+Liraglutide 18mg - 3 pens | 3
+Mounjaro 2.5 mg - ding | 38
+Mounjaro 2.5 mg - mint | 36
+Mounjaro 5 mg - ding | 21
+
+## S1-B (screenshot 1, middle column)
+Mounjaro 5 mg - mint | 57
+Mounjaro 7.5 mg - ding | 39
+Mounjaro 7.5 mg - mint | 98
+Mounjaro 10 mg - ding | 37
+Mounjaro 10 mg - mint | 69
+Mounjaro KwikPen 10 mg - mint | 2
+Mounjaro 12.5 mg - ding | 32
+Mounjaro 12.5 mg - mint | 29
+Mounjaro 15 mg - ding | 0
+Mounjaro 15 mg - mint | 33
+Nemluvio 30 mg | 1
+Novolin (vials) 100 units/ml | 13
+Novolin 70/30 FlexPen 100 units/ml | 12
+Novalog 100 units/ml | 107
+Ozempic .25 mg (red) - ding | 19
+Ozempic .25 mg (red) - mint | 35
+Ozempic 1 mg (blue) - ding | 8
+Ozempic 1 mg (blue) - mint | 104
+Ozempic 2 mg (gold) - ding | 13
+Ozempic 2 mg (gold) - mint | 66
+Praluent | 0
+Prolia 60 mg/ml | 1
+Rapatha (NDC 72511-393-02) - ding | 0
+Rapatha (NDC 72511-393-02) - mint | 3
+Rapatha (NDC 72511-501-01) | 7
+Skyrizi 150 mg/ml | 1
+Toujeo SoloStar - NDC0024-5869-03 | 27
+Toujeo SoloStar - NDC0024-5869-03 (ding) | 3
+Toujeo SoloStar - NDC0024-5871-02 | 106
+Toujeo SoloStar - NDC0024-5871-02 (ding) | 4
+TREMFYA 100mg | 0
+Tresiba 100 units/ml | 8
+Tresiba 200 units/ml | 21
+Trulicity .75 mg - ding | 16
+Trulicity .75 mg - mint | 18
+Trulicity 1.5 mg - ding | 23
+Trulicity 1.5 mg - mint | 22
+Trulicity 3 mg - ding | 10
+Trulicity 3 mg - mint | 8
+Trulicity 4.5 mg - ding | 20
+Trulicity 4.5 mg - mint | 20
+Victoza 18mg - 2 pens | 3
+
+## S1-C (screenshot 1, right column)
+Victoza 18mg - 3 pens | 5
+Wegovy .25 mg - ding | 0
+Wegovy .25 mg - mint | 0
+Wegovy .5 mg - mint | 5
+Wegovy 1 mg - mint | 1
+Wegovy 1.7 mg - mint | 0
+Wegovy 2.4 mg - mint | 3
+Wegovy HD 7.2mg - mint | 1
+Zepbound 2.5 mg - ding | 6
+Zepbound 2.5 mg - mint | 30
+Zepbound 5 mg - mint | 3
+Zepbound 7.5 mg - ding | 0
+Zepbound 7.5 mg - mint | 1
+Zepbound 10 mg - ding | 0
+Zepbound 10 mg - mint | 0
+Zepbound 12.5 mg - mint | 4
+Zepbound 15 mg - ding | 0
+Zepbound 15 mg - mint | 1
+Zepbound KwikPen 5 mg | 5
+Zepbound KwikPen 7.5 mg | 2
+
+## S1-D (screenshot 1, green second table, right side)
+Austedo 18mg 30ct | 4
+Austedo 9mg 30ct | 7
+Biktarvy 30mg 30ct | 10
+Brilinta 90mg 60ct | 11
+Caplyta 21mg 30ct | 0
+Caplyta 42mg 30ct | 0
+Dapagliflozin 10 mg 30ct | 3
+Descovy 200mg 30ct | 10
+Dovato 50mg | 1
+Eliquis 2.5mg | 45
+Eliquis 5mg 60ct | 32
+Entresto 24mg 60ct | 9
+Entresto 49mg 60ct | 7
+Entresto 97mg 60ct | 23
+Farxiga 10mg 30ct | 180
+Farxiga 5mg 30ct | 23
+Gemtesa 75mg 30ct - ding | 0
+Gemtesa 75mg 30ct - mint | 2
+Invokana 100mg 30ct | 3
+Invokana 300mg 30ct | 1
+Invokana 300mg 90ct | 0
+
+## S2-A (screenshot 2, left column)
+JANUMET 50mg 60ct | 1
+janumet XR 100mg 30ct | 2
+Januvia 100mg 30ct | 0
+Januvia 100mg 90ct | 2
+Januvia 25mg 30ct | 10
+Januvia 50mg 30ct | 8
+Jardiance 10mg 30ct | 206
+Jardiance 25mg 30ct | 222
+Jardiance 25mg 90ct | 0
+Kerendia 10mg | 11
+Kerendia 20mg 30ct | 2
+Kerendia 40mg | 1
+Linzess 145mcg 30ct | 4
+Linzess 290mcg 30ct | 54
+Linzess 72mcg 30ct | 77
+Movantik 12.5mg 30ct | 9
+Movantik 25mg 30ct | 14
+Myrbetriq 25mg 30ct | 0
+Myrbetriq 50mg 30ct | 1
+Myrbetriq 50mg 90ct | 0
+Nurtec ODT | 38
+Otezla 30mg 60ct | 12
+Ozempic 1.5mg 30ct | 3
+Ozempic 4mg 30ct | 4
+Ozempic 9mg 30ct | 6
+Qulipta 10mg | 6
+Qulipta 30mg | 4
+Qulipta 60mg | 1
+Qulipta 60mg 60ct | 0
+Rexulti 0.5mg 30ct | 1
+Rexulti 1mg 30ct | 2
+Rexulti 2mg 30ct | 1
+Rexulti 3mg 30ct | 0
+Rexulti 4mg 30ct | 0
+Rinvoq 15mg 30ct | 1
+Rinvoq 30mg 30ct | 0
+Rybelsus 14mg 30ct | 5
+Rybelsus 3mg 30ct | 4
+Rybelsus 7mg 30ct | 9
+Symtuza 800mg 30ct | 16
+SYNJARDY 12.5 60ct | 18
+Synjardy 12.5mg 180ct | 3
+
+## S2-B (screenshot 2, middle column)
+Synjardy XR 10mg 30ct | 4
+SynjardyXR 12.5mg 60ct | 10
+SynjardyXR 25mg 30ct | 1
+SynjardyXR 25mg 90ct | 3
+Tivicay 50mg 30ct | 1
+Tradjenta 5mg 30ct | 6
+trijardy xar 5mg 60ct | 1
+TRIJARDY XR 10mg 30ct | 3
+TRIJARDY XR 5mg 60 ct | 3
+Trintellix 10mg 30ct | 8
+Trintellix 20mg 30ct | 3
+Trintellix 5mg 30ct | 6
+trulance 3mg 30ct | 2
+Ubrelevy 050mg 10ct | 1
+Ubrelevy 100mg 10ct | 0
+Ubrelevy 100mg 16ct | 1
+Veozah 45mg 30ct | 3
+veozah 45mg 30ct | 0
+vraylar .75mg 30ct | 3
+VRAYLAR 0.75mg 30ct | 3
+Vryalar 0.5mg 30ct | 2
+Vryalar 1.5mg 30ct | 15
+Vryalar 3mg 30ct | 5
+Vryalar 4.5mg 30ct | 9
+Vryalar 6mg 30ct | 4
+Xarelto 10mg 30ct | 0
+Xarelto 15mg 30ct | 2
+Xarelto 2.5mg 30ct | 6
+Xarelto 20mg 30ct - ding | 0
+Xarelto 20mg 30ct - mint | 7
+Xigduo 10mg 30ct | 3
+Xigduo 2.5mg 60ct | 1
+Xigduo 5mg 60ct | 13
+
+## S2-C (screenshot 2, yellow "Inhalers" table)
+Airsupra 90mcg - ding | 1
+Airsupra 90mcg - mint | 24
+Anoro 62.5mcg | 4
+Arnuity 050mcg | 2
+Arnuity 100mcg | 9
+Arnuity 200mg | 1
+Breo 050mcg | 3
+Breo 100mcg | 9
+Breo 200mcg | 24
+Breztri 160/9mcg - ding | 3
+Breztri 160/9mcg - mint | 0
+Breztri 160/18mcg | 2
+Combivent 20mcg | 51
+Dulera 100mcg | 3
+Dulera 200mcg | 54
+Dulera 50mcg | 1
+Incruse 62.5mcg | 15
+Qvar 80mcg | 0
+Restasis | 0
+Spiriva HandiHaler | 28
+Spiriva Respimat 1.25mcg | 20
+Spiriva Respimat 2.5mcg | 17
+Stiolto 2.5mcg | 0
+Symbicort 160mcg | 61
+Symbicort 80mcg | 14
+Symbicort 80mcg short date | 0
+Trelegy 100mcg - ding | 0
+Trelegy 100mcg - mint | 5
+Trelegy 200mcg - ding | 1
+Trelegy 200mcg - mint | 2
+Ventolin 90mcg (200 inhalations) | 6
+Advair 45mcg | 1
+Advair 250mcg | 5
+Advair 500mcg | 7
+Albuterol Sulfate | 3
+Wixela 100/50 | 3
+Wixela 500/50 | 3
